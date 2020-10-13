@@ -1,0 +1,8 @@
+section {
+  background-color: lightgrey;
+  line-height: 150%;
+}
+
+li {
+  list-style-type: circle;
+}

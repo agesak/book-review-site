@@ -1,0 +1,43 @@
+header, footer {
+  border: solid;
+  background-color: #fff5ea;
+}
+
+/* I feel like the directions said do this in main but it looked bad to me */
+
+body {
+  background-color: #968c83;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Italicize any book titles that appear in the text content of the page */
+.book-title {
+  font-style: italic;
+}
+
+/* Apply a new color to each heading element */
+/* i dont think this does that */
+h3 {
+  color: #fff0f0;
+}
+
+h2 {
+  color: #ebd4d4
+}
+
+a:hover {
+  color: #fca652
+}
+
+li {
+  list-style-type: none;
+}
+
+
+/* Give the header and footer sections a border and background color
+Give the main content section a background color
+Apply a new font to the entire page (ex: Helvetica or Arial)
+Italicize any book titles that appear in the text content of the page
+Apply a new color to each heading element
+Display a different color when the mouse rolls over the navigational links
+Hide the bullet-points of the unordered lists in the site */
